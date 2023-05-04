@@ -4,6 +4,7 @@ node: v18.12.1
 npm: 8.19.2
 
 In order to run this project copy the .env.sample file and place it into a .env file
+Be careful with the the configuration set for TypeOrm
 
 ## Getting Started
 
